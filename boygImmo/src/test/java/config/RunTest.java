@@ -13,6 +13,7 @@ Thread.sleep(2000);
    // hdzaudzadazdxad
   wait.until(ExpectedConditions.elementToBeClickable(By.cssSelector("#dossier-client"))).click();
     Thread.sleep(2000);
+    //dsjkdcdddhzeuhduezbczuic
 }
 //lksqdzedhezhdzeudhezuhd
 }
