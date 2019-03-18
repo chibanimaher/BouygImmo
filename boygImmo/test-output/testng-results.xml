@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="13003" started-at="2019-03-15T10:55:18Z" finished-at="2019-03-15T10:55:31Z">
+  <suite name="Default suite" duration-ms="22162" started-at="2019-03-15T16:39:45Z" finished-at="2019-03-15T16:40:07Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="13003" started-at="2019-03-15T10:55:18Z" finished-at="2019-03-15T10:55:31Z">
-      <class name="config.Config">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:config.Config@5e5792a0]" name="setUp" is-config="true" duration-ms="6137" started-at="2019-03-15T10:55:18Z" finished-at="2019-03-15T10:55:24Z">
+    <test name="Default test" duration-ms="22162" started-at="2019-03-15T16:39:45Z" finished-at="2019-03-15T16:40:07Z">
+      <class name="config.RunTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:config.RunTest@26653222]" name="setUp" is-config="true" duration-ms="5575" started-at="2019-03-15T16:39:45Z" finished-at="2019-03-15T16:39:51Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="test()[pri:0, instance:config.Config@5e5792a0]" name="test" duration-ms="6723" started-at="2019-03-15T10:55:24Z" finished-at="2019-03-15T10:55:30Z">
+        <test-method status="PASS" signature="test()[pri:0, instance:config.RunTest@26653222]" name="test" duration-ms="16409" started-at="2019-03-15T16:39:51Z" finished-at="2019-03-15T16:40:07Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:config.Config@5e5792a0]" name="tearDown" is-config="true" duration-ms="90" started-at="2019-03-15T10:55:30Z" finished-at="2019-03-15T10:55:31Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:config.RunTest@26653222]" name="tearDown" is-config="true" duration-ms="143" started-at="2019-03-15T16:40:07Z" finished-at="2019-03-15T16:40:07Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- config.Config -->
+      </class> <!-- config.RunTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
