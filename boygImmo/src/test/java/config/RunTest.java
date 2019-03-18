@@ -12,7 +12,7 @@ public void test() throws Exception {
 Thread.sleep(2000);
    // hdzaud
   wait.until(ExpectedConditions.elementToBeClickable(By.cssSelector("#dossier-client"))).click();
-    //Thread.sleep(2000);
+    //Thread.sleep(2000);csqdqsdqsdqsd
     Thread.sleep(1000);
     
 }
