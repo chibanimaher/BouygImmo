@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="22162" started-at="2019-03-15T16:39:45Z" finished-at="2019-03-15T16:40:07Z">
+  <suite name="Default suite" duration-ms="11642" started-at="2019-03-20T08:37:42Z" finished-at="2019-03-20T08:37:53Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="22162" started-at="2019-03-15T16:39:45Z" finished-at="2019-03-15T16:40:07Z">
+    <test name="Default test" duration-ms="11642" started-at="2019-03-20T08:37:42Z" finished-at="2019-03-20T08:37:53Z">
       <class name="config.RunTest">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:config.RunTest@26653222]" name="setUp" is-config="true" duration-ms="5575" started-at="2019-03-15T16:39:45Z" finished-at="2019-03-15T16:39:51Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:config.RunTest@26653222]" name="setUp" is-config="true" duration-ms="5825" started-at="2019-03-20T08:37:42Z" finished-at="2019-03-20T08:37:47Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="test()[pri:0, instance:config.RunTest@26653222]" name="test" duration-ms="16409" started-at="2019-03-15T16:39:51Z" finished-at="2019-03-15T16:40:07Z">
+        <test-method status="PASS" signature="test()[pri:0, instance:config.RunTest@26653222]" name="test" duration-ms="5683" started-at="2019-03-20T08:37:47Z" finished-at="2019-03-20T08:37:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:config.RunTest@26653222]" name="tearDown" is-config="true" duration-ms="143" started-at="2019-03-15T16:40:07Z" finished-at="2019-03-15T16:40:07Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:config.RunTest@26653222]" name="tearDown" is-config="true" duration-ms="95" started-at="2019-03-20T08:37:53Z" finished-at="2019-03-20T08:37:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
