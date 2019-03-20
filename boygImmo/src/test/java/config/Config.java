@@ -13,6 +13,7 @@ public class Config {
 	public void setUp() throws Exception {
 		driver = new ChromeDriver();
 		wait = new WebDriverWait(driver, 20);
+		//fdfgdgdfgdf
 	}
 
 	@AfterTest
